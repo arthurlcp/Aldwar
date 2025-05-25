@@ -12,11 +12,11 @@ Features:
 6. Associate a plan file with a construction site 
 7. Exit 
 
-Usage: 
+Usage:
 - Run the melec_software.py file with Python 3: python melec_software.py 
-WARNING RUN melec_gui.py FOR GUI SOFTWARE !
+- WARNING RUN melec_gui.py FOR GUI SOFTWARE !
 - Plans should be placed in the plans/ folder. 
-
+- BE AWARE TO DOWNLOAD EVERYTHING INCLUNDING DATABASE FILE AND PLANS FOLDER !
 Included examples: 
 - 4 materials 
 - 1 construction site (Chantier Appartement 12) 
