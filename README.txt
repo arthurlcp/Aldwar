@@ -1,5 +1,8 @@
 MELEC SOFTWARE - Python Project for Construction Site Management for Electricians 
 
+TEST VIDEO 
+https://www.youtube.com/watch?v=oQgtO2rqrA0
+
 Features: 
 1. Add materials (name and description) 
 2. List materials 
