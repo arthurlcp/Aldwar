@@ -14,9 +14,19 @@ Features:
 
 Usage: 
 - Run the melec_software.py file with Python 3: python melec_software.py 
+WARNING RUN melec_gui.py FOR GUI SOFTWARE !
 - Plans should be placed in the plans/ folder. 
 
 Included examples: 
 - 4 materials 
 - 1 construction site (Chantier Appartement 12) 
 - 1 example plan
+
+MEMBERS: 
+
+LACAMPAGNE Arthur 250AEB055
+Documentation + Software + GUI + Tests + Report + GIT
+DU COUEDIC DE KERGOALER Alban 250AEB007
+Report + Software (tests only) + Documentation 
+DUFRENOT Dwyane 250AEB009
+Slides + Software + Report 
